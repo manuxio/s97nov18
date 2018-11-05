@@ -29,7 +29,7 @@ Tabella "**clienti**" creata come di seguito:
 	`provincia` VARCHAR(2) NOT NULL,
 	`partitaiva` VARCHAR(11) NOT NULL,
 	PRIMARY KEY (`id`)
-	) COMMENT='Questa tabella contiene i dati relativi ai clienti dell'azienda.'
+	) COMMENT='Questa tabella contiene i dati relativi ai clienti aziendali.'
 	ENGINE=InnoDB;
 
 
