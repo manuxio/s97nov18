@@ -74,7 +74,7 @@ Il candidato è invitato a creare un file PHP che:
 
 Il candidato è invitato a creare un file PHP che:
 * esegua la connessione al database come specificato in premessa
-* estragga la somma del fatturato diviso ciascuna provincia
+* estragga la somma del fatturato diviso per ciascuna provincia
 * generi, in HTML, una TABLE contenente i risultati estratti come sopra
 
 ### Quesito 3
