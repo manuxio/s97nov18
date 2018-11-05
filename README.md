@@ -46,7 +46,7 @@ Tabella "**fatture**" creata come di seguito:
 	COLLATE='latin1_swedish_ci'
 	ENGINE=InnoDB;
 
-Inserire nel database dei dati di esempio con i seguenti comandi:
+Inserire nel database i seguenti dati di esempio:
 
 ```
 INSERT INTO `clienti` (`id`, `nome`, `indirizzo`, `provincia`, `partitaiva`) VALUES (1, 'Acme Inc', 'Via Aurelia 100', 'RM', '11111111111');
