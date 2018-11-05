@@ -10,10 +10,15 @@ L'ambiente operativo del presente questionario deve essere
 Ambiente: **PHP versione 5.3**
 
 Tipo Database: **mySQL**
+
 Database host: **127.0.0.1**
+
 Database username: **testUser**
+
 Database password: **testPassword**
+
 Database name: **candidatura**
+
 
 Tabella "**clienti**" creata come di seguito:
 
